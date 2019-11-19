@@ -1,0 +1,7 @@
+.cross/
+.idea/
+/project/target/
+/target/
+/foo/target/
+/common/target/
+/boo/target/
