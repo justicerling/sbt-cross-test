@@ -25,4 +25,3 @@ lazy val foo = project.in(file("foo"))
         )
 lazy val root = Project("root", file("."))
         .aggregate(boo, foo)
-        .empty
